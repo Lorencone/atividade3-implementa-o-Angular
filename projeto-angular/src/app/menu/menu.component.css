@@ -8,3 +8,7 @@ img{
 span{
     padding: 1px;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
