@@ -1,0 +1,55 @@
+main{
+    min-width: 500px;
+}
+
+#section-banner{
+    min-width: 400px;    
+}
+
+#section-banner img{
+    height: 500px;
+}
+
+.produtos {
+    max-width: 400px;
+    margin-bottom: 8px;
+  }
+
+  h3{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+
+  mat-grid-list{
+    margin: 10px 0px;
+  }
+  mat-grid-title{
+    padding: 2px;
+    border-radius: 30px;
+  }
+  mat-card-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  mat-card-actions{
+    display: flex;
+    justify-content: space-around;
+  }  
+  
+  mat-card-actions p{
+    color: red;
+    font-size: 25px;
+    align-self: center;
+  }
+  
+  mat-card-actions button{
+    font: 15px;
+    background-color: green;
+  }
+
+  mat-card img{
+    height: 200px;
+    width: 200px;
+  }
